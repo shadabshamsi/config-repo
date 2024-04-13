@@ -1,0 +1,5 @@
+spring:
+  r2dbc:
+    url: r2dbc:postgresql://shadab:5432/polardb_order
+  flyway:
+    url: jdbc:postgresql://shadab:5432/polardb_order
